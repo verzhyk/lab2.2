@@ -1,0 +1,14 @@
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\bin\Debug\labaVlad2.exe.config
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\bin\Debug\labaVlad2.exe
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\bin\Debug\labaVlad2.pdb
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\obj\Debug\labaVlad2.csprojAssemblyReference.cache
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\obj\Debug\labaVlad2.csproj.CoreCompileInputs.cache
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\obj\Debug\labaVlad2.exe
+C:\Users\goss_rivero\source\repos\labaVlad2\labaVlad2\obj\Debug\labaVlad2.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\bin\Debug\labaVlad2.exe.config
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\bin\Debug\labaVlad2.exe
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\bin\Debug\labaVlad2.pdb
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\obj\Debug\labaVlad2.csprojAssemblyReference.cache
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\obj\Debug\labaVlad2.csproj.CoreCompileInputs.cache
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\obj\Debug\labaVlad2.exe
+C:\Users\veroz\OneDrive\Робочий стіл\labaVlad2\labaVlad2\obj\Debug\labaVlad2.pdb
